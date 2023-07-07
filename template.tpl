@@ -116,7 +116,10 @@ var bots_ua = [
   "Applebot",
   "headline.com",
   "SeekportBot",
-
+  "BitSightBot",
+  "BrightEdge",
+  "Google-InspectionTool",
+  
   //poorly configured headless tools
   "HeadlessChrome",
   "MSIE 5.0",
